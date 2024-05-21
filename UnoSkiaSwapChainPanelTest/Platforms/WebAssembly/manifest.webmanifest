@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoSkiaSwapChainPanelTest",
+  "display": "standalone",
+  "name": "UnoSkiaSwapChainPanelTest",
+  "short_name": "UnoSkiaSwapChainPanelTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
